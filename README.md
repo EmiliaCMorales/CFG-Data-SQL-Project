@@ -24,4 +24,4 @@ The [Getaways_project.sql](https://github.com/EmiliaCMorales/CFG-Data-SQL-Projec
 The repository also contains a backup of the database ([Getaways_backupfile.sql](https://github.com/EmiliaCMorales/CFG-Data-SQL-Project/blob/main/Getaways%20Backupfile.sql). 
 The project was presented on Week 8 to the rest of the group (remotely) ([presentation.pdf](https://github.com/EmiliaCMorales/CFG-Data-SQL-Project/blob/main/Presentation.pdf).
 
-![Getaways_db_diagram]([https://github.com/EmiliaCMorales/CFG-Data-SQL-Project/blob/main/ERD%20Diagram.pdf](https://github.com/EmiliaCMorales/CFG-Data-SQL-Project/blob/main/Getaways%20DB%20diagram.png)https://github.com/EmiliaCMorales/CFG-Data-SQL-Project/blob/main/Getaways%20DB%20diagram.png)
+![Getaways_db_diagram](https://github.com/EmiliaCMorales/CFG-Data-SQL-Project/blob/main/Getaways%20DB%20diagram.png)
