@@ -2,6 +2,7 @@
 Purpose of the course is to learn the fundamentals of Database design and SQL & at the end of the course, students will be able to build, deploy and maintain a Database.
 
 Modules covered:
+
 Module 1: Introduction to SQL Programming Language and Data
 
 Module 2: SQL Coding and Database Management Techniques
